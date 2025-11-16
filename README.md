@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OLX-style Marketplace UI (Flutter)
 
 UI sederhana mirip OLX/marketplace. Fokus pada tampilan dan navigasi antar halaman. Tanpa backend/API.
@@ -30,4 +31,3 @@ UI sederhana mirip OLX/marketplace. Fokus pada tampilan dan navigasi antar halam
 4. Jalankan:
    ```bash
    flutter pub get
-   flutter run
